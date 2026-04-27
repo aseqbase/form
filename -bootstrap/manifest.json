@@ -1,0 +1,11 @@
+{
+    "Image":"square-check",
+    "Name":"Form",
+    "Description":"To make and manage custom forms",
+    "Content":"You can make your unique forms by special variate fields, then manage and check all inputed values even field by field!",
+    "Access": 900000000,
+    "Reference": "aseqbase/packeges-form",
+    "PreInstalls": [],
+    "PostInstalls": [],
+    "MetaData":[]
+}
