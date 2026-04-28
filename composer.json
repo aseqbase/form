@@ -1,0 +1,13 @@
+{
+    "name":"Form",
+    "description":"To make and manage custom forms",
+    "type": "package",
+    "license": "GPL-3.0-only",
+    "authors": [
+        {
+            "name": "Mohammad Fathi",
+            "email": "i@mimfa.net"
+        }
+    ],
+    "require": {}
+}
